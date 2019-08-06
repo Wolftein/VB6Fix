@@ -1,3 +1,7 @@
+# Requires
+
+VBA6.DLL v6.0.0.9782 - b50e6ca4297fd5f0369fbb3826d129ac
+
 # Patches
 * VBA6_NoAutoCasing - Removes auto casing.
 
